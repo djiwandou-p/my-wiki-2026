@@ -1,8 +1,12 @@
+
+
 # AI Predictive Maintenance Smartship
+![question.jpg](https://raw.githubusercontent.com/djiwandou-p/my-wiki-2026/main/wiki/images/1776921100256-question.jpg)
 
 ### Prompt
-### act as ship fleet expert and ship system analysis as well as software system engineer, if we want to create AI prediction for ship maintenance, what data we need to prepare, give example to structured and non-structured data and what are steps from beginning preparation to AI prediction system ready
+ act as ship fleet expert and ship system analysis as well as software system engineer, if we want to create AI prediction for ship maintenance, what data we need to prepare, give example to structured and non-structured data and what are steps from beginning preparation to AI prediction system ready
 
+### Response
 To build an AI‑based predictive maintenance system for a ship fleet, you need a mix of **structured time‑series data** from ship systems and **unstructured data** from logs, inspections, and work orders. Below is a concrete breakdown and a step‑by‑step engineering roadmap.
 
 ***
@@ -188,4 +192,5 @@ If you like, the next step can be:
 [^9]: https://www.maritimemagazines.com/offshore-engineer/202112/six-steps-to-predictive-maintenance/
 
 [^10]: https://jisem-journal.com/index.php/journal/article/download/1707/668/2768
+
 
