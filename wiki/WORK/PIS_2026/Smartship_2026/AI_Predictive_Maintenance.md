@@ -1,6 +1,6 @@
 
 
-# AI Predictive Maintenance Smartship
+# AI Predictive Maintenance
 
 ### Prompt
  act as ship fleet expert and ship system analysis as well as software system engineer, if we want to create AI prediction for ship maintenance, what data we need to prepare, give example to structured and non-structured data and what are steps from beginning preparation to AI prediction system ready
