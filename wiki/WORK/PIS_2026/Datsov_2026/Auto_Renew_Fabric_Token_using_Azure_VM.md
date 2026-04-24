@@ -18,6 +18,7 @@ winget install Microsoft.AzureCLI
 ```
 
     - Or download from: https://aka.ms/installazurecliwindows[^2]
+
 ![install_azure_cli.png](https://raw.githubusercontent.com/djiwandou-p/my-wiki-2026/main/wiki/images/1776995758092-install_azure_cli.png)
 
 2. Install **PowerShell Az module** (for `Get-AzAccessToken` fallback, optional):
