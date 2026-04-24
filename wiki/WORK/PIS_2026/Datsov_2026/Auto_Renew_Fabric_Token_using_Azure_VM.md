@@ -18,6 +18,8 @@ winget install Microsoft.AzureCLI
 ```
 
     - Or download from: https://aka.ms/installazurecliwindows[^2]
+![install_azure_cli.png](https://raw.githubusercontent.com/djiwandou-p/my-wiki-2026/main/wiki/images/1776995758092-install_azure_cli.png)
+
 2. Install **PowerShell Az module** (for `Get-AzAccessToken` fallback, optional):
 
 ```powershell
@@ -330,4 +332,5 @@ I can give you a final **one‑shot setup script** you can paste on the VM that:
 [^9]: https://learn.microsoft.com/en-au/answers/questions/2137812/how-to-schedule-on-azure-to-run-a-powershell-scrip
 
 [^10]: https://github.com/Azure/azure-powershell/issues/2494
+
 
